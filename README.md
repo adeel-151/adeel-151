@@ -16,13 +16,12 @@
 ---
 
 ### 📊 GitHub Stats:
-![Adeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeelqaiser&show_icons=true&theme=tokyonight)
+![Adeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeel-151&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeelqaiser&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeel-151&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr)](your-fiverr-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/adeel-qaiser151)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://adeel-qaiser.vercel.app)
