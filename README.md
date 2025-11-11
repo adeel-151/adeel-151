@@ -50,7 +50,7 @@
 
 ### 🧩 **Portfolio Website**  
 A modern, fully responsive portfolio built with React.js and Tailwind CSS, featuring animations and smooth transitions.  
-🔗 [View Project](https://adeel-qaiser.vercel.app/)
+🔗 [View Project](https://adeelqaiser.vercel.app/)
 
 ### 🛍️ **E-Commerce Frontend**  
 Built using HTML, CSS, and JavaScript — includes product listing, cart functionality, and responsive layout.  
