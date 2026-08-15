@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7F5AF0&height=220&section=header&text=Adeel%20Qaiser&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Expert%20Frontend%20Engineer&descAlignY=58&descSize=18" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7F5AF0&height=220&section=header&text=Adeel%20Qaiser&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Frontend%20Specialist%20%7C%20MERN%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="header banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Adeel+Qaiser;MERN+Stack+Developer;Expert+Frontend+Engineer;Building+Scalable+Web+Experiences;Turning+Coffee+Into+Clean+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Adeel+Qaiser;React+Frontend+Specialist;Full-Stack+MERN+Developer;Ex-SMITian+and+Academy+Instructor;Turning+Coffee+Into+Clean+Code" alt="Typing SVG" />
 
 <br/>
 
@@ -12,12 +12,23 @@
 
 <br/><br/>
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/adeel-qaiser151"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/adeel_qaiser_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.facebook.com/iamadeel151"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://adeelqaiser.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-<!-- 🔧 Replace the LinkedIn, X, and Email links above with your real profile URLs -->
+<!-- 🔧 Only the Email badge above is still a placeholder — swap in your real address. LinkedIn, Instagram, Facebook, and Portfolio are already wired to your real profiles. -->
+
+<br/><br/>
+
+<a href="#-about-me">About</a> •
+<a href="#-quick-facts">Quick Facts</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-github-analytics">Analytics</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-beyond-the-code">Beyond the Code</a> •
+<a href="#-lets-connect">Connect</a>
 
 </div>
 
@@ -25,21 +36,18 @@
 
 ## 👨‍💻 About Me
 
-I'm a **MERN Stack Developer** and **Expert Frontend Engineer** who turns complex problems into clean, elegant, and blazing-fast web applications — blending a designer's eye with an engineer's precision.
+> "Jack of all, master of none" — but I still ship production-grade code. 😄
 
-- 🔭 Currently building scalable full-stack applications with the **MERN** ecosystem
+I'm a **React Frontend Specialist** with full-stack **MERN** capability — I turn complex problems into clean, elegant, and blazing-fast web applications, blending a designer's eye with an engineer's precision.
+
+- 🔭 Recently shipped a production-ready **School Management ERP** and architected a **Pakistan-focused multi-vendor marketplace**
+- 🎓 **Ex-SMITian** — trained through Saylani Mass IT Training (SMIT)
 - 🌱 Leveling up in **Next.js**, **GraphQL**, and **AWS**
 - 💬 Ask me about **React**, **Node.js**, **TypeScript**, or **System Design**
-- 🎯 Mission: ship production-grade applications with pixel-perfect precision
-- ⚡ Fun fact: I code with ☕ in one hand and 🎧 on loop
+- 🇵🇰 Based in Pakistan, building for local and global clients alike
+- ⚡ Fun fact: I code with ☕ in one hand and 🎧 on loop — and chase the outdoors the moment the laptop closes
 
 <div align="center">
-
-| 🧭 Focus | 🛠️ Core Stack | 🎯 Exploring Next | 🤝 Open To |
-|:---:|:---:|:---:|:---:|
-| Full-Stack Web Dev | MERN + TypeScript | Next.js · GraphQL · AWS | Collabs & Freelance Work |
-
-<br/>
 
 [![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -47,7 +55,25 @@ I'm a **MERN Stack Developer** and **Expert Frontend Engineer** who turns comple
 
 ---
 
+## 📌 Quick Facts
+
+<div align="center">
+
+| 🧭 Primary Focus | 🛠️ Core Stack | 🎓 Trained At | 🤝 Open To |
+|:---:|:---:|:---:|:---:|
+| React Frontend Specialist (Full-Stack MERN) | MERN · TypeScript · Zustand | Saylani Mass IT Training (SMIT) | Freelance · Collabs · Mentoring |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,express,mongodb,firebase,git,github,docker,figma&theme=dark" alt="skill icons" />
+
+</div>
 
 ### 🎯 Frontend Engineering
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -60,6 +86,8 @@ I'm a **MERN Stack Developer** and **Expert Frontend Engineer** who turns comple
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -68,6 +96,11 @@ I'm a **MERN Stack Developer** and **Expert Frontend Engineer** who turns comple
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🤖 AI Integration
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ### 🧰 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -172,48 +205,92 @@ jobs:
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 E-Commerce Platform
-Full-stack e-commerce solution with authentication, payment integration, and an admin dashboard.
+### 🏫 School Management ERP
+Large-scale, production-ready School Management System built on the MERN stack — five user roles with full role-based access control, live MongoDB aggregation charts, and a polished ink-blue, warm-paper, and muted-gold design system.
 
-`React` `Node.js` `Express` `MongoDB` `Stripe` `JWT`
+`React` `Node.js` `Express` `MongoDB` `RBAC`
 
-🔗 [Live Demo](#) · [Repository](https://github.com/adeel-151/ecommerce-platform)
+🔗 [Live Demo](#) · [Repository](#)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Analytics Dashboard
-Real-time data visualization dashboard with interactive charts and live data feeds.
+### 🛒 Multi-Vendor Marketplace
+Daraz/Amazon-style multi-vendor e-commerce marketplace built for the Pakistani market — JazzCash, EasyPaisa, and Cash on Delivery payments, plus a companion AI layer for recommendations, search, chatbot support, and fraud detection.
 
-`React` `D3.js` `Socket.io` `Node.js` `MongoDB`
+`React` `Node.js` `Express` `MongoDB` `AI/ML`
 
-🔗 [Live Demo](#) · [Repository](https://github.com/adeel-151/analytics-dashboard)
+🔗 [Live Demo](#) · [Repository](#)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Portfolio Website
-Modern, animated portfolio showcasing my work with a focus on performance and accessibility.
+### 🏗️ Elite Engineers — Corporate Site
+A premium corporate website for a Pakistan-based construction, engineering, and project-management firm — portfolio gallery, WhatsApp chat button, Google Maps integration, and quotation-request forms. My first paid client project.
 
-`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
+`React` `Node.js` `Express` `MongoDB`
 
-🔗 [Live Demo](https://adeelqaiser.vercel.app/) · [Repository](https://github.com/adeel-151/portfolio)
+🔗 [Live Demo](#) · [Repository](#)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 University Map Project
-Interactive campus map with building overlays and location-based search.
+### 🏥 MediCore — Clinic Management SaaS
+A hackathon-built clinic management platform with a dark glassmorphism UI, Gemini AI integration, a jsPDF prescription generator, and role-based access for four distinct user types.
 
-`HTML` `CSS` `JavaScript` `Leaflet.js`
+`React` `Node.js` `MongoDB` `Gemini AI` `jsPDF`
 
-🔗 [Live Demo](#) · [Repository](https://github.com/adeel-151/university-map-project)
+🔗 [Live Demo](#) · [Repository](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 XarKode — Software House Site
+A marketing website for a software house, rebuilt pixel-for-pixel from a client-provided design — Framer Motion micro-interactions on the frontend, backed by a hardened Express/MongoDB API.
+
+`React 18` `Vite` `Tailwind v4` `Framer Motion` `Express`
+
+🔗 [Live Demo](#) · [Repository](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 💊 Shilajit 3D Product Landing
+An immersive, single-file 3D product landing page — scroll-triggered animation and cinematic bloom lighting, built entirely with Three.js and GSAP.
+
+`Three.js` `GSAP` `ScrollTrigger` `WebGL`
+
+🔗 [Live Demo](#) · [Repository](#)
 
 </td>
 </tr>
 </table>
+
+<!-- 🔧 Swap the "#" links above for each project's real live demo and repo URLs -->
+
+<div align="center">
+
+*Also working through a 20 MERN Stack Projects Challenge, one build at a time — most recent: DevLura Jobs, a full job-portal platform.*
+
+</div>
+
+---
+
+## 🎓 Beyond the Code
+
+Outside of shipping code, I teach — I'm an academy instructor in Pakistan running **Digital Marketing** and **Social Media Marketing** courses, helping students go from zero to job-ready.
+
+I'm also a proud **Ex-SMITian**, trained through Saylani Mass IT Training (SMIT) — the same practical, project-first approach I try to bring into my own classroom.
+
+<div align="center">
+
+🎯 **Full-Stack Development**  ·  📱 **Digital Marketing**  ·  📈 **Social Media Marketing**
+
+</div>
 
 ---
 
@@ -252,6 +329,10 @@ graph LR
 ---
 
 <div align="center">
+
+## 🤝 Let's Connect
+
+Open to freelance work, collabs, and good conversations about frontend, MERN, or teaching the next batch of developers. Drop a ⭐ on a repo you like, or reach out on any of the links up top.
 
 ### ✨ Thanks for stopping by — feel free to explore, fork, and say hi 👋
 
